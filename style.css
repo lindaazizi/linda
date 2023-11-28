@@ -19,7 +19,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: var(--bg-color);
-  background-image: url(img/bg.webp);
+  background-image: url(bg.webp);
 }
 
 .swiper {
